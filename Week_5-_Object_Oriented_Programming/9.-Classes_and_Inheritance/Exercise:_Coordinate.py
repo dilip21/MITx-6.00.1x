@@ -52,6 +52,6 @@ class Coordinate(object):
             return False
            
     def __repr__(self):
-        return "Coordinate"+ str((self.x, self.y))
+        return "Coordinate"+ str((self.x,self.y))
 
 # Correct
